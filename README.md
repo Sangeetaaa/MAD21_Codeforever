@@ -8,21 +8,21 @@ The application also provides a tech forum to post a blog, review code, errors, 
 
 
 Tech-stack used:\
-❏ Platform : Android\ 
+❏ Platform : Android \ 
 ❏ Build automation tool : Gradle\
 ❏ Engine : Android Studio 3.0.1\ 
 ❏ UI Development : Android-XML\
 ❏ Data Processing : Android-JAVA\ 
-❏ Database : Firebase\ 
+❏ Database : Firebase \ 
 
 
-Functionalities :\
+Functionalities : \
 -> Login/SignUp Activity\  
 -> HomePage\
 -> Side Navigation Menu\
 -> Performance Analyzer\
 -> Tech Forum\
--> Upcoming Contests Details\
+-> Upcoming Contests Details \
 
 
 
