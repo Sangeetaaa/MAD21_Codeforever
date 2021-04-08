@@ -9,22 +9,22 @@
   </ul>
 
 
-Tech-stack used:\
-❏ Platform : Android\ 
-❏ Build automation tool : Gradle\
-❏ Engine : Android Studio 3.0.1\ 
-❏ UI Development : Android-XML\
-❏ Data Processing : Android-JAVA\ 
-❏ Database : Firebase\ 
+Tech-stack used:<br />
+❏ Platform : Android<br />
+❏ Build automation tool : Gradle<br />
+❏ Engine : Android Studio 3.0.1<br />
+❏ UI Development : Android-XML<br />
+❏ Data Processing : Android-JAVA<br />
+❏ Database : Firebase<br />
 
 
-Functionalities :\
--> Login/SignUp Activity\  
--> HomePage\
--> Side Navigation Menu\
--> Performance Analyzer\
--> Tech Forum\
--> Upcoming Contests Details\
+Functionalities :<br />
+-> Login/SignUp Activity<br /> 
+-> HomePage<br />
+-> Side Navigation Menu<br />
+-> Performance Analyzer<br />
+-> Tech Forum<br />
+-> Upcoming Contests Details<br />
 
 
 
