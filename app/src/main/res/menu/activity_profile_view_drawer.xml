@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Dashboard">
+        <menu>
+            <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_performance"
+            android:icon="@drawable/ic_menu_leaderboard"
+            android:title="Performance Analyzer" />
+        <item
+            android:id="@+id/nav_codeAssistant"
+            android:icon="@drawable/ic_menu_codeassistant"
+            android:title="Code-Assistant" />
+
+        <item
+            android:id="@+id/nav_contest"
+            android:icon="@drawable/ic_menu_contest"
+            android:title="Upcoming Contests" />
+        <item
+            android:id="@+id/nav_forum"
+            android:icon="@drawable/ic_menu_forum"
+            android:title="Tech Forum" />
+    </group>
+        </menu>
+    </item>
+
+
+    <item android:title="Profile">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="Log out" />
+            </group>
+        </menu>
+    </item>
+
+
+</menu>

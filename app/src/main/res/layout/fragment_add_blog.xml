@@ -1,0 +1,81 @@
+<ScrollView android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+        android:layout_marginTop="?actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <ImageView
+            android:id="@+id/imageSelect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="#ffffff"
+            android:src="@mipmap/add_btn"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"/>
+
+        <ProgressBar
+            android:id="@+id/blogProgressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/addTitle"
+            android:singleLine="true"
+            android:hint="Blog Title...."
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:gravity="top"
+            android:layout_below="@+id/imageSelect"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="20dp"
+            android:inputType="textMultiLine"
+            android:maxLines="2"
+            android:fontFamily="@font/amaranth"
+            android:textColorHint="@color/text_hint"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:ellipsize="end"
+            android:background="@drawable/input_outline"
+            android:padding="15dp"/>
+
+        <EditText
+            android:id="@+id/addDescription"
+            android:hint="Blog Description..."
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:inputType="textMultiLine"
+            android:ems="10"
+            android:ellipsize="end"
+            android:gravity="top"
+            android:textColorHint="@color/text_hint"
+            android:maxLines="20"
+            android:background="@drawable/input_outline"
+            android:layout_below="@+id/addTitle"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_centerHorizontal="true"
+            android:padding="15dp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/blogSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_marginHorizontal="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/addDescription"
+            android:backgroundTint="@color/colorAccent"
+            android:textColor="@android:color/white"
+            android:layout_centerHorizontal="true"/>
+
+    </RelativeLayout>
+</ScrollView>

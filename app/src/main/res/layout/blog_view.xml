@@ -1,0 +1,115 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:elevation="8dp"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="8dp"
+    android:paddingTop="50dp"
+    android:layout_margin="20dp"
+    android:id="@+id/blog_cardView">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/blogImage"
+            android:src="@mipmap/add_btn"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"
+            android:layout_width="match_parent"
+            android:layout_height="230dp" />
+
+        <TextView
+            android:id="@+id/blogTitle"
+            android:background="@android:color/white"
+            android:textSize="18sp"
+            android:fontFamily="@font/allerta"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:text="Post title goes here"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/blogDescription"
+            android:background="@android:color/white"
+            android:text="Post description goes here"
+            android:padding="10dp"
+            android:fontFamily="@font/allerta"
+            android:textColor="@color/text_hint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/blogUsername"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:ems="10"
+                android:fontFamily="@font/allerta"
+                android:paddingHorizontal="15dp"
+                android:paddingVertical="15dp"
+                android:text="username"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:padding="10dp"
+                android:layout_toStartOf="@id/blogLikes"
+                android:src="@drawable/ic_like"/>
+
+            <TextView
+                android:id="@+id/blogLikes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10"
+                android:fontFamily="@font/allerta"
+                android:layout_alignParentEnd="true"
+                android:textStyle="bold"
+                android:paddingHorizontal="10dp"
+                android:paddingVertical="15dp"
+                android:background="@android:color/white"/>
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/shareButton"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/navbar"
+                app:cornerRadius="6dp"
+                app:icon="?attr/actionModeShareDrawable"
+                app:iconGravity="textStart" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/likeButton"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:backgroundTint="@color/navbar"
+                app:cornerRadius="6dp"
+                app:icon="@mipmap/ic_thumb_up_white_24dp"
+                app:iconGravity="textStart" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

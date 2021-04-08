@@ -1,0 +1,258 @@
+[
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_profile_popup.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\profile_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\font_allerta.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\font\\allerta.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_view.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\activity_profile_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_profile_view_drawer.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\menu\\activity_profile_view_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_layout.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\search_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlebackgroundyellow.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\circlebackgroundyellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_code_view.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\code_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\font_amaranth.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\font\\amaranth.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_home.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tech_forum.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_tech_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_profile.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_follow.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_follow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_profile_view.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\content_profile_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_layout.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_semibold.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\font\\nunito_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_performance_analyzer.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_performance_analyzer.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttonstyle.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\buttonstyle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_code_info.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_code_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_total_analysis.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_total_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_profile_view.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\app_bar_profile_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_blog_view.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\blog_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup_page.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\activity_signup_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_profile_view.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\nav_header_profile_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luke.jpg.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\luke.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_luke2.jpg.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\luke2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_leaderboard.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_add_blog.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_add_blog.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_search_button.png.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\mipmap-xhdpi\\search_button.png"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_login_24.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\menu_profile_view.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\menu\\profile_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_outline.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\input_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlebackgroundpurple.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\circlebackgroundpurple.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_upcoming_contests.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_upcoming_contests.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_thumb_up_white_24dp.png.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\mipmap-xhdpi\\ic_thumb_up_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_search.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_code_assistant.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_code_assistant.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_add_white_24dp.png.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\mipmap-xhdpi\\ic_add_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_add_btn.png.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\mipmap-xhdpi\\add_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_default_user.png.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\mipmap-xhdpi\\default_user.png"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlebackgroundgreen.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\circlebackgroundgreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_like.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_daily_basis.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_daily_basis.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\font_nunito_bold.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\font\\nunito_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_codeassistant.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_codeassistant.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_profile_white.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_profile_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_android_black_24dp.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_phone_android_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_forum_white.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_forum_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_codeassistant_white.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_codeassistant_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlebackgroundpink.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\circlebackgroundpink.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_contest.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_contest.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_show.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\layout\\fragment_profile_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_forum.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_leaderboard.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_leaderboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_search_white.xml.flat",
+        "source": "C:\\Users\\kaurj\\Downloads\\Codegram_Final\\Codegram_Final\\Codegram\\app\\src\\main\\res\\drawable\\ic_menu_search_white.xml"
+    }
+]

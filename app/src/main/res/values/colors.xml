@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>-->
+
+    <color name="colorPrimary">#0277BD</color>
+    <color name="colorPrimaryDark">#2e22ac</color>
+    <color name="colorAccent">#b6419f</color>
+    <color name="navbar">#b6419f</color>
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yellow">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="orange">#eaad43</color>
+    <color name="white">#fff</color>
+    <color name="text_hint">#989595</color>
+    <color name="black">#000</color>
+
+    <color name="bluelight">#49acd5</color>
+    <color name="bluedark">#2f333f</color>
+    <color name="graylight">#fafafa</color>
+    <color name="endblue">#0bcce6</color>
+
+</resources>

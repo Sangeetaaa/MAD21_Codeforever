@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/amaranth"
+            android:text="Setup Profile"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:layout_marginVertical="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/amaranth"
+        android:text="Tap on camera to choose profile picture"
+        android:textAlignment="center"
+        android:layout_marginBottom="15dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.mikhaellopez.circularimageview.CircularImageView
+            android:id="@+id/imageView"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            app:civ_border_color="@color/black"
+            app:civ_border_width="2dp"
+            android:background="@drawable/ic_menu_camera"
+            android:layout_centerHorizontal="true"/>
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/editTextDisplayName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:layout_gravity="center_horizontal" >
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/allerta"
+                android:textSize="16sp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:backgroundTint="@color/white"
+                android:scrollHorizontally="true"
+                android:textColor="@color/black"
+                android:hint="Username"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/editTextDisplayMobile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:layout_gravity="center_horizontal" >
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/allerta"
+                android:textSize="16sp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:backgroundTint="@color/white"
+                android:scrollHorizontally="true"
+                android:textColor="@color/black"
+                android:hint="Mobile number"
+                android:inputType="number" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+
+        <CheckBox
+        android:id="@+id/hackerrank"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:checked="false"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/allerta"
+        android:text="Hackerrank" />
+
+    <EditText
+        android:id="@+id/hackerrank_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/allerta"
+        android:inputType="textPersonName"
+        android:hint="Enter Hackerrank Username"
+        android:visibility="gone"/>
+
+    <CheckBox
+        android:id="@+id/codechef"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/allerta"
+        android:text="CodeChef" />
+
+    <EditText
+        android:id="@+id/codechef_user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:fontFamily="@font/allerta"
+        android:inputType="textPersonName"
+        android:text=""
+        android:hint="Enter Codechef Username"
+        android:visibility="gone"/>
+
+        <CheckBox
+            android:id="@+id/hackerearth"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/allerta"
+            android:text="Hackerearth" />
+
+        <EditText
+            android:id="@+id/hackerearth_user"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:fontFamily="@font/allerta"
+            android:inputType="textPersonName"
+            android:text=""
+            android:hint="Enter Hackerearth Username"
+            android:visibility="gone"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/editTextDisplayBio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="10dp"
+            android:layout_gravity="center_horizontal" >
+            <com.google.android.material.textfield.TextInputEditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/allerta"
+                android:textSize="16sp"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:backgroundTint="@color/white"
+                android:scrollHorizontally="true"
+                android:textColor="@color/black"
+                android:hint="Bio"
+                android:inputType="textMultiLine" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/textViewVerified"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="20dp"
+        android:text="Verified"
+        android:gravity="center"
+        android:fontFamily="@font/allerta"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonSave"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/white"
+        android:fontFamily="@font/allerta"
+        android:textSize="18sp"
+        android:backgroundTint="@color/navbar"
+        android:text="Save"
+        android:textAllCaps="false" />
+
+    </LinearLayout>
+</ScrollView>

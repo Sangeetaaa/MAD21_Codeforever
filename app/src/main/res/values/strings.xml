@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Codegram</string>
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+
+    <!-- Strings related to login -->
+    <string name="title_activity_profile_view">profile_view</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string-array name="Domain">
+        <item>Implementation</item>
+        <item>Strings</item>
+        <item>Sorting</item>
+        <item>Searching</item>
+        <item>Graph Theory</item>
+        <item>Greedy</item>
+        <item>Dynamic Programming</item>
+        <item>Bit Manipulation</item>
+        <item>Recursion</item>
+        <item>Game Theory</item>
+        <item>NP Complete</item>
+    </string-array>
+    <string-array name="Level">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string-array name="Status">
+        <item>Submitted</item>
+        <item>Partially Submitted</item>
+        <item>Not Submitted</item>
+    </string-array>
+    <string-array name="Competitions">
+        <item>Algorithms</item>
+        <item>Data Structures</item>
+        <item>Mathematics</item>
+        <item>Artificial Inteligence</item>
+        <item>Databases</item>
+        <item>Functional Programming</item>
+        <item>General Programming</item>
+    </string-array>
+</resources>

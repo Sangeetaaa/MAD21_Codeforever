@@ -1,0 +1,32 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.scitech.codegram.TechForum">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:background="@drawable/luke2"
+            app:titleTextAppearance="@style/TextAppearance.TabsFont"
+            android:layout_height="?attr/actionBarSize" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/blog_recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="673dp"
+            android:layout_below="@id/toolbar"
+            android:layout_marginTop="2dp">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+    </RelativeLayout>
+
+
+</FrameLayout>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414194576068",
+    "firebase_url": "https://codestalk-new.firebaseio.com",
+    "project_id": "codestalk-new",
+    "storage_bucket": "codestalk-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414194576068:android:1f8a1d5ac5be0bd8d43791",
+        "android_client_info": {
+          "package_name": "com.scitech.codegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414194576068-3or1hntvq5chhom2elbn6pno1bq8j76p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANXRACLg1let6NJN6Oj0bLc_Rg-_EC09I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414194576068-3or1hntvq5chhom2elbn6pno1bq8j76p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
