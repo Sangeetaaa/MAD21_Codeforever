@@ -35,17 +35,16 @@ Screeshots of app:
 
 
 <p align="center">
-  <img src="screenshots/1.jpeg" width="100" height="100">
+  <img src="screenshots/1.jpeg" width="300" height="350">
+  <img src="screenshots/2.jpeg" width="300" height="350">
+  <img src="screenshots/3.jpeg" width="300" height="350">
+  <img src="screenshots/4.jpeg" width="300" height="350">
+  <img src="screenshots/5.jpeg" width="300" height="350">
+  <img src="screenshots/6.jpeg" width="300" height="350">
+  <img src="screenshots/7.jpeg" width="300" height="350">
+  <img src="screenshots/8.jpeg" width="300" height="350">
+  <img src="screenshots/9.jpeg" width="300" height="350">
+  <img src="screenshots/10.jpeg" width="300" height="350">
+  <img src="screenshots/11.jpeg" width="300" height="350">
+  <img src="screenshots/12.jpeg" width="300" height="350">
 </p>
-![alt text](screenshots/1.jpeg)<br />
-![alt text](screenshots/2.jpeg)<br />
-![alt text](screenshots/3.jpeg)<br />
-![alt text](screenshots/4.jpeg)<br />
-![alt text](screenshots/5.jpeg)<br />
-![alt text](screenshots/6.jpeg)<br />
-![alt text](screenshots/7.jpeg)<br />
-![alt text](screenshots/8.jpeg)<br />
-![alt text](screenshots/9.jpeg)<br />
-![alt text](screenshots/10.jpeg)<br />
-![alt text](screenshots/11.jpeg)<br />
-![alt text](screenshots/12.jpeg)<br />
