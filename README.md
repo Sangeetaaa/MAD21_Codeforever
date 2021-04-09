@@ -1,5 +1,10 @@
 # MAD21_Codeforever
 
+Team Name : CodeForever<br />
+Team Members : Jasmeet Kaur, Sangeeta Meena<br />
+Theme : Time Management And Productivity<br />
+
+
 <ul>
 <li>An Android application which can work as a single platform solution to coding, it’s analysis, contest updates and networking.</li>
   <li>The application is authenticated by mail-id and passwords.</li>
@@ -25,6 +30,5 @@ Functionalities :<br />
 -> Performance Analyzer<br />
 -> Tech Forum<br />
 -> Upcoming Contests Details<br />
-
 
 
