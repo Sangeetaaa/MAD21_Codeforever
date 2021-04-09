@@ -32,6 +32,11 @@ Functionalities :<br />
 -> Upcoming Contests Details<br />
 
 Screeshots of app:
+
+
+<p align="center">
+  <img src="screenshots/1.jpeg" width="100" height="100">
+</p>
 ![alt text](screenshots/1.jpeg)<br />
 ![alt text](screenshots/2.jpeg)<br />
 ![alt text](screenshots/3.jpeg)<br />
