@@ -32,15 +32,15 @@ Functionalities :<br />
 -> Upcoming Contests Details<br />
 
 Screeshots of app:
-![alt text](screenshots/1.jpeg)
-![alt text](screenshots/2.jpeg)
-![alt text](screenshots/3.jpeg)
-![alt text](screenshots/4.jpeg)
-![alt text](screenshots/5.jpeg)
-![alt text](screenshots/6.jpeg)
-![alt text](screenshots/7.jpeg)
-![alt text](screenshots/8.jpeg)
-![alt text](screenshots/9.jpeg)
-![alt text](screenshots/10.jpeg)
-![alt text](screenshots/11.jpeg)
-![alt text](screenshots/12.jpeg)
+![alt text](screenshots/1.jpeg)<br />
+![alt text](screenshots/2.jpeg)<br />
+![alt text](screenshots/3.jpeg)<br />
+![alt text](screenshots/4.jpeg)<br />
+![alt text](screenshots/5.jpeg)<br />
+![alt text](screenshots/6.jpeg)<br />
+![alt text](screenshots/7.jpeg)<br />
+![alt text](screenshots/8.jpeg)<br />
+![alt text](screenshots/9.jpeg)<br />
+![alt text](screenshots/10.jpeg)<br />
+![alt text](screenshots/11.jpeg)<br />
+![alt text](screenshots/12.jpeg)<br />
